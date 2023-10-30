@@ -9,10 +9,14 @@
 使用PIC18F4520 * 4個
 ### c. 架構圖
 - 系統架構圖
+
 ![](./img/diagram_1.png)
 - PIC18及連接埠使用
+
 ![](./img/pic18.png)
 - 系統電路圖
+
 ![](./img/actual.png)
 - Design
+
 ![](./img/design.png)
